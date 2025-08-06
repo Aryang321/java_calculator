@@ -1,0 +1,1 @@
+It is a basic calulator that performs addition, subtraction, multiplication, divison when two operatand are given to it.
